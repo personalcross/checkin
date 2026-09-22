@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "prescriptions": "https://personalcross.github.io/prescriptions/",
         "workouts": "https://personalcross.github.io/workouts/",
         
-        "manage-accounts": "https://personalcross.github.io/manage-accounts/",
+        "manage-accounts": "https://personalcross.github.io/account-management/",
         "logout": "https://personalcross.github.io/home/" // logout redirects to home
     }
 
